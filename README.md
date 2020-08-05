@@ -1,7 +1,7 @@
 Homework Assignment 1
 =====================
 
-For this homework assignment I was tasked to refactor an existing webpage to make it more accessible.
+For this homework assignment I was tasked to refactor the HTML and CSS of an existing webpage to make it more accessible.
 Below, I have included the acceptance criteria and a description of changes I made to fit each of the criteria. 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -43,3 +43,8 @@ THEN they fall in sequential order"
 THEN I find a concise, descriptive title"
 
 *Updated title to company name
+
+Contact info: jbenningfield.dev@gmail.com
+![Homework](./assets/homework.PNG)
+
+
